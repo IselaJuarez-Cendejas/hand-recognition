@@ -1,5 +1,3 @@
-import sys
-sys.path.append(r"C:\Users\isela\Documents\python")
 import cv2
 import mediapipe as mp
 import numpy as np
